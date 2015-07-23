@@ -1,0 +1,122 @@
+/* app/webroot/css/task.css */
+/*
+.roundBox {
+	background-color: #FFDACC;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	font-weight: normal;
+	padding: 10px;
+	margin: 10px 0;
+}
+.button {
+	background-color: #7A90C0;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	padding: 5px 25px;
+	line-height: 2em;
+}
+*/
+
+body {
+        background-color: #1F0068;
+
+}
+
+.sorth3 {
+	color: white;
+}
+
+.menu {
+	list-style:none;
+}
+
+.roundBox {
+        background: #009bad !important;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius:0px;
+        font-weight: normal;
+        padding: 5px;
+        margin: 2px 2px;
+        float: left;
+        width: 250px;
+}
+
+.roundBox1 {
+        background: #FF9933;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius:0px;
+        font-weight: normal;
+        padding: 5px;
+        margin: 2px 2px;
+        float: left;
+        width: 300px;
+}
+.roundBox2 {
+        background: #009bad !important;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius:0px;
+        font-weight: normal;
+        padding: 5px;
+        margin: 2px 2px;
+        float: left;
+        width: 300px;
+}
+
+
+.roundBox3 {
+        background: #00cc33 !important;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius:0px;
+        font-weight: normal;
+        padding: 5px;
+        margin: 2px 2px;
+        float: left;
+        width: 300px;
+}
+.roundBox4 {
+        background: #0033cc !important;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius:0px;
+        font-weight: normal;
+        padding: 5px;
+        margin: 2px 2px;
+        float: left;
+        width: 300px;
+}
+.roundBox5 {
+        background: #66ffff !important;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius:0px;
+        font-weight: normal;
+        padding: 5px;
+        margin: 2px 2px;
+        float: left;
+        width: 300px;
+}
+
+.round1{
+	float:right;
+}
+
+
+.round2{
+	float:left;
+}
+
+
+.button {
+        color: #FFFFFF;
+        -moz-border-radius: 0px;
+        -webkit-border-radius: 0px;
+        padding: 0px 1px;
+        line-height: 1em;
+}
+
